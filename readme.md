@@ -7,4 +7,4 @@ I'm a Software Developer 👨‍💻 and ❤️ everything about the Software De
 - 💬 Ask me about **_Anything!_**
 
 ## ⚡ Github Stats
-![Kasper's github stats](https://github-readme-stats.vercel.app/api?username=kasper-dev)
+![Kasper's github stats](https://github-readme-stats.vercel.app/api?username=kasper-dev&include_all_commits=true)
