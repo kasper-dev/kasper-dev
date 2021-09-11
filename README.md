@@ -2,7 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Lua   6 hrs 31 mins   █████████████████████████   100.00 % 
+Lua    12 hrs 4 mins   █████████████████████████   99.60 % 
+Text   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
