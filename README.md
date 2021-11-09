@@ -2,9 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Lua          8 hrs 47 mins   ████████████████████████▒   97.84 % 
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Lua          7 hrs 55 mins   █████████████████████████   99.68 % 
 ```
 <!--END_SECTION:waka-->
 
