@@ -1,10 +1,5 @@
-# Hello! ✌️
+passionate programmer
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+![](https://komarev.com/ghpvc/?username=kasper-dev&label=VIEWS)
 
-# Current Projects 🎨
-[**RP Gamemode**] - A roleplaying gamemode that was built from scratch & aims to give the player the greatest and most unique experience ever.
+Join my Discord for updates, support, and special early testing for Project-Pixel: discord.gg
